@@ -1,0 +1,44 @@
+{
+  "id": "groop",
+  "name": "Groop",
+  "version": "1.1.0",
+  "summary": "Folders of apps in your Dock, opening as glass grids",
+  "description": "Groop puts a few apps behind one tile of the Dock. Click the tile and the folder opens above it as a glass window, with its apps in a grid, a list or tiles, over as many pages as it needs.\n\nThe studio designs both the tile and the window: presets, a classic grid, a stack or a folder icon, colours, opacity, gloss, the header, fonts, corners, columns and density. Every size is exact: icons, text, gaps, margins, corners and the folder itself. Pictures with parallax, extra pages, a detachable window and a Command Center tile. Each folder gets a keyboard shortcut that opens it from anywhere.",
+  "category": "Productivity",
+  "kit": {
+    "abi": 1,
+    "minAPI": "1.22.0"
+  },
+  "minAppVersion": "15.3.0",
+  "capabilities": [
+    "global-shortcuts",
+    "menu-bar"
+  ],
+  "surfaces": [
+    "settings-pane",
+    "menu-bar-extra"
+  ],
+  "icon": "Groop.icon",
+  "creator": {
+    "name": "Nicolas Delli Muti",
+    "kind": "community",
+    "url": "https://vision-studio.be",
+    "avatar": "Creator.png",
+    "gitlab": "your-gitlab-username"
+  },
+  "source": {
+    "repository": "https://gitlab.com/droppyformac1/droplets/-/tree/main/droplets/groop",
+    "license": "MIT"
+  },
+  "screenshots": [],
+  "keywords": [
+    "dock",
+    "folder",
+    "dossier",
+    "apps",
+    "grid",
+    "launcher",
+    "organize",
+    "groop"
+  ]
+}
